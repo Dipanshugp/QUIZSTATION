@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+fitz
+openai
+google.generativeai
+frontend
+tools
+PyMuPDF
