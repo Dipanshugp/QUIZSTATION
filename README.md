@@ -46,7 +46,7 @@ QuizStation/
    ```
 3. **Run the Streamlit app:**  
    ```bash
-  streamlit run app.py 
+   streamlit run app.py 
   
    ```
 4. **Use the app:**  
