@@ -1,3 +1,18 @@
-.streamlit/secrets.toml
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.pyo
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Virtual Environment
+venv/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS Files
+Thumbs.db
+.DS_Store
