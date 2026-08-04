@@ -37,7 +37,7 @@ QuizStation/
 ## **💡 How to Use**  
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/arpitpatelsitapur/QUIZSTATION.git
+   git clone https://github.com/Dipanshugp/QUIZSTATION.git
    cd QUIZSTATION
    ```
 2. **Install dependencies:**  
